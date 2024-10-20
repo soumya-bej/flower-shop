@@ -18,6 +18,5 @@
 <li>User-Friendly Contact Form</li>
 </ul>
 <br>
-<h3>Video Showcase:</h3>
-<p>Watch a demo of our E-commerce Flower Shop on YouTube:</p>
+
 
